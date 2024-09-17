@@ -31,9 +31,8 @@ The Cloud honeypot lab aims to create a practical and portable honeypot environm
 - Logged into the web interface using IP address (cloud) with port and specifying user and password
 - Successfully logged into Tpot web user interface 
 
-
-
-
+![1]
+![2]
 
 #### 3. Using Tpot Attackmap & Kibana
 
@@ -41,3 +40,10 @@ The Cloud honeypot lab aims to create a practical and portable honeypot environm
 - From the web interface I've selected Attackmap and viewed the incoming connections from honeypot
 - Opened kibana honeytrap dashboard and viewed data
 - Ran honeypot for a significant amount of time to have data generated to Kibana dashboard and prepared for future analysis
+![3]
+![4]
+
+[1]: https://github.com/NODRYC/Cloud-Honeypot-Project/blob/main/pics/tpot-installed.png
+[2]: https://github.com/NODRYC/Cloud-Honeypot-Project/blob/main/pics/tpot-logon.png
+[3]: https://github.com/NODRYC/Cloud-Honeypot-Project/blob/main/pics/tpot-attack-map.png
+[4]: https://github.com/NODRYC/Cloud-Honeypot-Project/blob/main/pics/kibana-dashboard.png
